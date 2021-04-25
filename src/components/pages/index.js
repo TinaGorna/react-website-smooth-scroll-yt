@@ -3,12 +3,12 @@ import Sidebar from "../Sidebar";
 import Navbar from "../Navbar";
 import HeroSection from "../HeroSection";
 import InfoSection from "../InfoSection";
-import {homeObjOne} from "../InfoSection/Data";
+import {homeObjOne, homeObjThree, homeObjTwo} from "../InfoSection/Data";
+import Services from "../Services";
+
 
 export const Home = () => {
-
     const [isOpen, setIsOpen] = useState(false);
-
     const toggle = () => {
         setIsOpen(!isOpen)
     }
@@ -17,8 +17,11 @@ export const Home = () => {
         <>
             <Sidebar isOpen={isOpen} toggle={toggle}/>
             <Navbar toggle={toggle}/>
-            <HeroSection />
-            <InfoSection {...homeObjOne}/>
+            <HeroSection/>
+            <InfoSection {...homeObjOne} />
+            <InfoSection {...homeObjTwo}/>
+            <Services/>
+            <InfoSection {...homeObjThree}/>
         </>
     )
 };
