@@ -55,15 +55,15 @@ const Footer = () => {
                             dolla © {new Date().getFullYear()} All rights reserved.
                         </WebsiteRights>
                         <SocialIcons>
-                            <SocialIconLink href='/' target='_blank'
+                            <SocialIconLink href='//www.facebook.com/' target='_blank'
                                             aria-label='Faceebok'>
                                 <FaFacebook/>
                             </SocialIconLink>
-                            <SocialIconLink href='/' target='_blank'
+                            <SocialIconLink href='//www.instagram.com/' target='_blank'
                                             aria-label='Instagram'>
                                 <FaInstagram/>
                             </SocialIconLink>
-                            <SocialIconLink href='/' target='_blank'
+                            <SocialIconLink href='//www.youtube.com' target='_blank'
                                             aria-label='Youtube'>
                                 <FaYoutube/>
                             </SocialIconLink>
@@ -71,7 +71,7 @@ const Footer = () => {
                                             aria-label='Twitter'>
                                 <FaTwitter/>
                             </SocialIconLink>
-                            <SocialIconLink href='/' target='_blank'
+                            <SocialIconLink href='//www.linkedin.com/' target='_blank'
                                             aria-label='Linkdin'>
                                 <FaLinkedin/>
                             </SocialIconLink>
