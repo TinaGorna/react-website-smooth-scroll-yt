@@ -11,12 +11,16 @@ import {
     TopLine
 } from "./InfoElements";
 import {Button} from "../ButtonElements";
+
 import Car from '../images/svg-1.svg'
+/*import Car2 from '../images/svg-2.svg'
+import img from '../images/svg-4.svg'*/
+import Piggy from '../images/svg-4.svg'
 
-
-const InfoSection = ({
+const InfoSectionPage3 = ({
                          lightBg,
                          id,
+                         img,
                          imgStart,
                          topLine,
                          lightText,
@@ -52,7 +56,7 @@ const InfoSection = ({
                         </Column1>
                         <Column2>
                             <ImgWrap>
-                                <Img src={Car} alt={alt}/>
+                                <Img src={Piggy} alt={alt}/>
                             </ImgWrap>
                         </Column2>
                     </InfoRow>
@@ -62,4 +66,4 @@ const InfoSection = ({
     )
 }
 
-export default InfoSection
+export default InfoSectionPage3

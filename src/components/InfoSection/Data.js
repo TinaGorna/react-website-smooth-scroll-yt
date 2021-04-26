@@ -1,3 +1,7 @@
+/*import { Car } from '../images/svg-1.svg'*/
+// import PiggyBank from '../images/svg-2.svg'
+// import Paper from '../images/svg-4.svg'
+
 export const homeObjOne = {
     id: 'about',
     lightBg: false,
@@ -8,7 +12,7 @@ export const homeObjOne = {
     /*description: 'Get access to our exclusive app that allows ou to send unlimited transactions without getting charged any fees',*/
     buttonLabel: 'Get started',
     imgStart: false,
-    img: require('../images/svg-1.svg'),
+    img: require ('../images/svg-1.svg'),
     alt: 'Car',
     dark: true,
     primary: true,
@@ -25,7 +29,7 @@ export const homeObjTwo = {
     description: 'We have you covered no matter where you are located. All you need is an internet connection and a phone or computer',
     buttonLabel: 'Learn More',
     imgStart: true,
-    img: require('../images/svg-2.svg'),
+    img: require('../images/svg-2.svg'),  //2
     alt: 'PiggyBank',
     dark: false,  //верно
     primary: false, //верно

@@ -5,6 +5,8 @@ import HeroSection from "../HeroSection";
 import InfoSection from "../InfoSection";
 import {homeObjOne, homeObjThree, homeObjTwo} from "../InfoSection/Data";
 import Services from "../Services";
+import InfoSectionPage from "../InfoSection/indexPage2";
+import InfoSectionPage3 from "../InfoSection/indexPage3";
 
 
 export const Home = () => {
@@ -19,9 +21,9 @@ export const Home = () => {
             <Navbar toggle={toggle}/>
             <HeroSection/>
             <InfoSection {...homeObjOne} />
-            <InfoSection {...homeObjTwo}/>
+            <InfoSectionPage {...homeObjTwo}/>
             <Services/>
-            <InfoSection {...homeObjThree}/>
+            <InfoSectionPage3 {...homeObjThree}/>
         </>
     )
 };
