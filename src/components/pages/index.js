@@ -7,6 +7,7 @@ import {homeObjOne, homeObjThree, homeObjTwo} from "../InfoSection/Data";
 import Services from "../Services";
 import InfoSectionPage from "../InfoSection/indexPage2";
 import InfoSectionPage3 from "../InfoSection/indexPage3";
+import Footer from "../Footer";
 
 
 export const Home = () => {
@@ -24,6 +25,7 @@ export const Home = () => {
             <InfoSectionPage {...homeObjTwo}/>
             <Services/>
             <InfoSectionPage3 {...homeObjThree}/>
+            <Footer />
         </>
     )
 };

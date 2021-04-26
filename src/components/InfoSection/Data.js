@@ -1,6 +1,3 @@
-/*import { Car } from '../images/svg-1.svg'*/
-// import PiggyBank from '../images/svg-2.svg'
-// import Paper from '../images/svg-4.svg'
 
 export const homeObjOne = {
     id: 'about',
@@ -9,7 +6,7 @@ export const homeObjOne = {
     lightTextDesc: false,
     topLine: 'Premium Bank',
     headline: 'Unlimited Transactions with zero fees',
-    /*description: 'Get access to our exclusive app that allows ou to send unlimited transactions without getting charged any fees',*/
+    description: 'Get access to our exclusive app that allows ou to send unlimited transactions without getting charged any fees',
     buttonLabel: 'Get started',
     imgStart: false,
     img: require ('../images/svg-1.svg'),

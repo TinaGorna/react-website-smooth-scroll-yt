@@ -6,11 +6,11 @@ import {
     InfoContainer,
     InfoRow,
     InfoWrapper,
-    Subtitle,
     TextWrapper,
     TopLine
 } from "./InfoElements";
 import {Button} from "../ButtonElements";
+import {Subtitle} from "./SubtitleForPage1";
 import Car from '../images/svg-1.svg'
 
 

@@ -11,16 +11,11 @@ import {
     TopLine
 } from "./InfoElements";
 import {Button} from "../ButtonElements";
-
-import Car from '../images/svg-1.svg'
-/*import Car2 from '../images/svg-2.svg'
-import img from '../images/svg-4.svg'*/
 import Piggy from '../images/svg-4.svg'
 
 const InfoSectionPage3 = ({
                          lightBg,
                          id,
-                         img,
                          imgStart,
                          topLine,
                          lightText,
