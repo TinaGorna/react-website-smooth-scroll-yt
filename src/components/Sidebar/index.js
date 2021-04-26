@@ -3,8 +3,7 @@ import {
     CloseIcon,
     Icon,
     SidebarContainer,
-    SidebarLink, SidebarMenu,
-    SidebarRouter,
+    SidebarLink, SidebarMenu, SidebarRoute,
     SidebarWrapper,
     SideBtnWrap
 } from "./SidebarElements";
@@ -31,9 +30,9 @@ const Sidebar = ({isOpen, toggle}) => {
                     </SidebarLink>
                 </SidebarMenu>
                 <SideBtnWrap>
-                    <SidebarRouter to='/signin'>
+                    <SidebarRoute to='/signin' >
                         Sign In
-                    </SidebarRouter>
+                    </SidebarRoute>
                 </SideBtnWrap>
             </SidebarWrapper>
         </SidebarContainer>
