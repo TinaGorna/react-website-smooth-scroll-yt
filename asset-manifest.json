@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/react-website-smooth-scroll-yt/static/js/main.23168b03.chunk.js",
-    "main.js.map": "/react-website-smooth-scroll-yt/static/js/main.23168b03.chunk.js.map",
-    "runtime-main.js": "/react-website-smooth-scroll-yt/static/js/runtime-main.630f829e.js",
-    "runtime-main.js.map": "/react-website-smooth-scroll-yt/static/js/runtime-main.630f829e.js.map",
-    "static/js/2.5b51f7e9.chunk.js": "/react-website-smooth-scroll-yt/static/js/2.5b51f7e9.chunk.js",
-    "static/js/2.5b51f7e9.chunk.js.map": "/react-website-smooth-scroll-yt/static/js/2.5b51f7e9.chunk.js.map",
-    "index.html": "/react-website-smooth-scroll-yt/index.html",
-    "static/js/2.5b51f7e9.chunk.js.LICENSE.txt": "/react-website-smooth-scroll-yt/static/js/2.5b51f7e9.chunk.js.LICENSE.txt",
-    "static/media/svg-1.svg": "/react-website-smooth-scroll-yt/static/media/svg-1.2bc937bf.svg",
-    "static/media/svg-2.svg": "/react-website-smooth-scroll-yt/static/media/svg-2.19af6ede.svg",
-    "static/media/svg-3.974c3b30.svg": "/react-website-smooth-scroll-yt/static/media/svg-3.974c3b30.svg",
-    "static/media/svg-4.svg": "/react-website-smooth-scroll-yt/static/media/svg-4.5f11287c.svg",
-    "static/media/svg-5.74668990.svg": "/react-website-smooth-scroll-yt/static/media/svg-5.74668990.svg",
-    "static/media/video.d48e2181.mp4": "/react-website-smooth-scroll-yt/static/media/video.d48e2181.mp4"
+    "main.js": "/smooth-scroll/static/js/main.23168b03.chunk.js",
+    "main.js.map": "/smooth-scroll/static/js/main.23168b03.chunk.js.map",
+    "runtime-main.js": "/smooth-scroll/static/js/runtime-main.9ec7d46a.js",
+    "runtime-main.js.map": "/smooth-scroll/static/js/runtime-main.9ec7d46a.js.map",
+    "static/js/2.17b75b61.chunk.js": "/smooth-scroll/static/js/2.17b75b61.chunk.js",
+    "static/js/2.17b75b61.chunk.js.map": "/smooth-scroll/static/js/2.17b75b61.chunk.js.map",
+    "index.html": "/smooth-scroll/index.html",
+    "static/js/2.17b75b61.chunk.js.LICENSE.txt": "/smooth-scroll/static/js/2.17b75b61.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/smooth-scroll/static/media/svg-1.2bc937bf.svg",
+    "static/media/svg-2.svg": "/smooth-scroll/static/media/svg-2.19af6ede.svg",
+    "static/media/svg-3.974c3b30.svg": "/smooth-scroll/static/media/svg-3.974c3b30.svg",
+    "static/media/svg-4.svg": "/smooth-scroll/static/media/svg-4.5f11287c.svg",
+    "static/media/svg-5.74668990.svg": "/smooth-scroll/static/media/svg-5.74668990.svg",
+    "static/media/video.d48e2181.mp4": "/smooth-scroll/static/media/video.d48e2181.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.630f829e.js",
-    "static/js/2.5b51f7e9.chunk.js",
+    "static/js/runtime-main.9ec7d46a.js",
+    "static/js/2.17b75b61.chunk.js",
     "static/js/main.23168b03.chunk.js"
   ]
 }
