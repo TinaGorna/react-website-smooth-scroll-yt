@@ -55,9 +55,9 @@ export const ServicesCard = styled.div`
 `
 
 export const ServicesIcon = styled.img`
-  height: 160px;
-  width: 160px;
-  margin-bottom: 10px;
+  height: 130px;
+  width: 130px;
+  margin-bottom: 5px;
 `
 
 export const ServicesH1 = styled.h1`
