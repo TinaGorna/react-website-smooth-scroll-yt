@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/smooth-scroll.github.io/static/js/main.1321d902.chunk.js",
-    "main.js.map": "/smooth-scroll.github.io/static/js/main.1321d902.chunk.js.map",
-    "runtime-main.js": "/smooth-scroll.github.io/static/js/runtime-main.56d328a3.js",
-    "runtime-main.js.map": "/smooth-scroll.github.io/static/js/runtime-main.56d328a3.js.map",
-    "static/js/2.2fa3a8ee.chunk.js": "/smooth-scroll.github.io/static/js/2.2fa3a8ee.chunk.js",
-    "static/js/2.2fa3a8ee.chunk.js.map": "/smooth-scroll.github.io/static/js/2.2fa3a8ee.chunk.js.map",
-    "index.html": "/smooth-scroll.github.io/index.html",
-    "static/js/2.2fa3a8ee.chunk.js.LICENSE.txt": "/smooth-scroll.github.io/static/js/2.2fa3a8ee.chunk.js.LICENSE.txt",
-    "static/media/svg-1.svg": "/smooth-scroll.github.io/static/media/svg-1.2bc937bf.svg",
-    "static/media/svg-2.svg": "/smooth-scroll.github.io/static/media/svg-2.19af6ede.svg",
-    "static/media/svg-3.974c3b30.svg": "/smooth-scroll.github.io/static/media/svg-3.974c3b30.svg",
-    "static/media/svg-4.svg": "/smooth-scroll.github.io/static/media/svg-4.5f11287c.svg",
-    "static/media/svg-5.74668990.svg": "/smooth-scroll.github.io/static/media/svg-5.74668990.svg",
-    "static/media/video.d48e2181.mp4": "/smooth-scroll.github.io/static/media/video.d48e2181.mp4"
+    "main.js": "/smooth-scroll/static/js/main.7af1cbb0.chunk.js",
+    "main.js.map": "/smooth-scroll/static/js/main.7af1cbb0.chunk.js.map",
+    "runtime-main.js": "/smooth-scroll/static/js/runtime-main.78e7713b.js",
+    "runtime-main.js.map": "/smooth-scroll/static/js/runtime-main.78e7713b.js.map",
+    "static/js/2.f5fd6c64.chunk.js": "/smooth-scroll/static/js/2.f5fd6c64.chunk.js",
+    "static/js/2.f5fd6c64.chunk.js.map": "/smooth-scroll/static/js/2.f5fd6c64.chunk.js.map",
+    "index.html": "/smooth-scroll/index.html",
+    "static/js/2.f5fd6c64.chunk.js.LICENSE.txt": "/smooth-scroll/static/js/2.f5fd6c64.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/smooth-scroll/static/media/svg-1.2bc937bf.svg",
+    "static/media/svg-2.svg": "/smooth-scroll/static/media/svg-2.19af6ede.svg",
+    "static/media/svg-3.974c3b30.svg": "/smooth-scroll/static/media/svg-3.974c3b30.svg",
+    "static/media/svg-4.svg": "/smooth-scroll/static/media/svg-4.5f11287c.svg",
+    "static/media/svg-5.74668990.svg": "/smooth-scroll/static/media/svg-5.74668990.svg",
+    "static/media/video.d48e2181.mp4": "/smooth-scroll/static/media/video.d48e2181.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.56d328a3.js",
-    "static/js/2.2fa3a8ee.chunk.js",
-    "static/js/main.1321d902.chunk.js"
+    "static/js/runtime-main.78e7713b.js",
+    "static/js/2.f5fd6c64.chunk.js",
+    "static/js/main.7af1cbb0.chunk.js"
   ]
 }
