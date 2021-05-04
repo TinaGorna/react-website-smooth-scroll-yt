@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/smooth-scroll/static/js/main.aec6d9ea.chunk.js",
-    "main.js.map": "/smooth-scroll/static/js/main.aec6d9ea.chunk.js.map",
+    "main.js": "/smooth-scroll/static/js/main.3dd1464f.chunk.js",
+    "main.js.map": "/smooth-scroll/static/js/main.3dd1464f.chunk.js.map",
     "runtime-main.js": "/smooth-scroll/static/js/runtime-main.78e7713b.js",
     "runtime-main.js.map": "/smooth-scroll/static/js/runtime-main.78e7713b.js.map",
-    "static/js/2.4dd4c854.chunk.js": "/smooth-scroll/static/js/2.4dd4c854.chunk.js",
-    "static/js/2.4dd4c854.chunk.js.map": "/smooth-scroll/static/js/2.4dd4c854.chunk.js.map",
+    "static/js/2.f5fd6c64.chunk.js": "/smooth-scroll/static/js/2.f5fd6c64.chunk.js",
+    "static/js/2.f5fd6c64.chunk.js.map": "/smooth-scroll/static/js/2.f5fd6c64.chunk.js.map",
     "index.html": "/smooth-scroll/index.html",
-    "static/js/2.4dd4c854.chunk.js.LICENSE.txt": "/smooth-scroll/static/js/2.4dd4c854.chunk.js.LICENSE.txt",
+    "static/js/2.f5fd6c64.chunk.js.LICENSE.txt": "/smooth-scroll/static/js/2.f5fd6c64.chunk.js.LICENSE.txt",
     "static/media/svg-2.svg": "/smooth-scroll/static/media/svg-2.19af6ede.svg",
     "static/media/svg-3.974c3b30.svg": "/smooth-scroll/static/media/svg-3.974c3b30.svg",
     "static/media/svg-4.svg": "/smooth-scroll/static/media/svg-4.5f11287c.svg",
@@ -16,7 +16,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.78e7713b.js",
-    "static/js/2.4dd4c854.chunk.js",
-    "static/js/main.aec6d9ea.chunk.js"
+    "static/js/2.f5fd6c64.chunk.js",
+    "static/js/main.3dd1464f.chunk.js"
   ]
 }
