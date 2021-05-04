@@ -11,7 +11,7 @@ import {
     TopLine
 } from "./InfoElements";
 import {Button} from "../ButtonElements";
-import Piggy from '../images/svg-4.svg'
+import Piggy from '../images/svg-3.svg'
 
 const InfoSectionPage3 = ({
                          lightBg,
