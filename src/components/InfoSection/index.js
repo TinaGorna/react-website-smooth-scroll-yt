@@ -11,7 +11,7 @@ import {
 } from "./InfoElements";
 import {Button} from "../ButtonElements";
 import {Subtitle} from "./SubtitleForPage1";
-import Car from '../images/svg-1.svg'
+import Car from '../images/svg-5.svg'
 
 
 const InfoSection = ({
